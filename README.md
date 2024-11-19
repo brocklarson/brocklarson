@@ -1,4 +1,4 @@
-Hello! My name is Brock Larson and I am a self-taught and passionate developer with a degree in Mechanical and Aerospace Engineering. I have a love for problem-solving and enjoy utilizing that skill to tackle the many challenges that software development provides.
+Hello! My name is Brock Larson and I am a self-taught and passionate developer with a degree in Mechanical and Aerospace Engineering. I have a love for problem-solving and enjoy utilizing that skill to tackle the many challenges that software development provides. I currently work as a Sofware Engineer for Apogee Instruments (https://www.apogeeinstruments.com).
 
 ### Skillset:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,py,matlab,cpp,git,github,django,jest,docker,webpack,kubernetes,aws,azure,gcp,postgres,mysql,sqlite,linux&perline=7)](https://skillicons.dev)
